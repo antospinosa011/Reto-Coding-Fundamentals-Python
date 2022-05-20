@@ -10,6 +10,6 @@ Posee ciertas limitaciones que no permiten al usuario hacer operaciones masivas 
 - Eliminar uno a uno los productos existentes
 - Agregar al carrito de compras de un cliente un producto a la vez (aún si es el mismo producto).
 
-El último inciso es un derivado de que el proyecto NO cuenta las cantidades que se tienen por producto. Lo cual también trae la consecuencia de que NO se tiene un stock, y no es posible saber la disponibilidad de productos.
+El último inciso es un derivado de que el proyecto NO cuenta las cantidades que se tienen por producto. A consecuencia de ello, NO se tiene un stock, y no es posible saber la disponibilidad de productos.
 
 Autora: Antonella N. Canalis Spinosa
