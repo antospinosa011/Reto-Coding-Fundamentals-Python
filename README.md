@@ -21,7 +21,7 @@ Preguntas:
 - No, no existe un límite.
 
 ¿Qué me indica el reporte de ventas? 
-- En el reporte de ventas ud. podrá encontrar cuántas ventas se hicieron en base a un rango de precios. 
-- Asimismo, le permitirá identificar los productos que más se vendieron y a qué precio. 
+- En el reporte de ventas ud. podrá encontrar cuántas y cuáles ventas se hicieron en base a un rango de precios. 
+- Asimismo, le permitirá identificar los productos que más(menos) se vendieron y a qué precio. 
 
 Autora: Antonella N. Canalis Spinosa
