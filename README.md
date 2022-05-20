@@ -12,4 +12,16 @@ Posee ciertas limitaciones que no permiten al usuario hacer operaciones masivas 
 
 El último inciso es un derivado de que el proyecto NO cuenta las cantidades que se tienen por producto. A consecuencia de ello, NO se tiene un stock, y no es posible saber la disponibilidad de productos.
 
+Preguntas:
+
+¿El sistema es útil para la venta de otros tipos de productos?
+- Sí. El sistema puede utilizarse para todo tipo de tienda
+
+¿Hay un límite de veces que puedo agregar productos, eliminarlos, o venderlos?
+- No, no existe un límite.
+
+¿Qué me indica el reporte de ventas? 
+- En el reporte de ventas ud. podrá encontrar cuántas ventas se hicieron en base a un rango de precios. 
+- Asimismo, le permitirá identificar los productos que más se vendieron y a qué precio. 
+
 Autora: Antonella N. Canalis Spinosa
