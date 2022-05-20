@@ -15,14 +15,14 @@ def sistema():
         if opcion ==2: 
             eliminar_producto()                                                  #Eliminar producto si la opción es 2)
         if opcion ==3: 
-            vender_producto()        
+            vender_producto()                                                    #Vender productos si la opción es 3)
         if opcion ==4:
-            reporte_ventas()                                            #Vender productos si la opción es 3)
+            reporte_ventas()                                                     #Reporte de ventas si la opción es 4)
         if opcion ==0:
             print("El programa se ha cerrado")                                   #Cerrar el programa si la opción es "0"
             break
         else: 
-            print("Seleccione una opción correcta")                              #Ingresar una opción correcta (entre 0 y 3)
+            print("Seleccione una opción correcta")                              #Ingresar una opción correcta (entre 0 y 4)
 
 
 
