@@ -1,4 +1,4 @@
-##Sistema de gestión de inventario en Python
+# Sistema de gestión de inventario en Python
 
 El proyecto llevado a cabo es un sistema de gestión de inventario por consola.
 
