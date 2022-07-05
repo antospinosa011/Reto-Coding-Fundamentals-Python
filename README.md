@@ -1,6 +1,6 @@
-# Reto-Coding-Fundamentals-Python
+#Sistema de gestión de inventario
 
-El proyecto llevado a cabo es un sistema de gestión de inventario.
+El proyecto llevado a cabo es un sistema de gestión de inventario por consola.
 
 El mismo fue desarrollado para una tienda de materiales de construcción, el cual permite agregar productos, eliminarlos, gestionar ventas en base a los productos existentes en el inventario y ofrece un reporte de los productos vendidos en base a un rango de precios solicitado por el usuario.
 
